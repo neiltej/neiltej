@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Neil Tejnani</h1>
+<h1 align="center">Hi 👋, I'm Neil David</h1>
 <h3 align="center">An enthusiastic data analyst from Hong Kong</h3>
 
 - 🌱 I’m currently learning **Deep Learning, SQL**
